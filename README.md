@@ -1,14 +1,3 @@
-
----
-
-## ✅ 2) [**JobPost** Repo](https://github.com/nikhilmangali1/JobPost)
-
-### 🔍 Current State:
-- Has a basic README but very minimal — no description, no setup instructions.
-
-### 📈 Suggested README Update:
-
-```markdown
 # Job Posting Web Application (Backend)
 
 A RESTful web application built using Spring Boot for managing job listings with full CRUD support. Implements layered architecture with JPA and MySQL.
