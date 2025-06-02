@@ -2,7 +2,7 @@
 
 A RESTful web application built using Spring Boot for managing job listings with full CRUD support. Implements layered architecture with JPA and MySQL.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - Java
 - Spring Boot
