@@ -28,7 +28,7 @@ A RESTful web application built using Spring Boot for managing job listings with
 ### Prerequisites
 - Java 17+
 - Maven
-- MySQL or H2
+- MySQL
 
 ### Run Locally
 
