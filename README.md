@@ -10,20 +10,18 @@ A RESTful web application built using Spring Boot for managing job listings with
 - MySQL
 - Maven
 
-## ✅ Features
+## Features
 
 - Add, update, delete, and view job posts
 - RESTful API architecture
 - Layered design with controller, service, repository
 
-## 🧱 Project Structure
+## Project Structure
 
 - `controller/` – REST endpoints
 - `service/` – Business logic
 - `repository/` – JPA interfaces
 - `model/` – Job entity
-
-## 🚀 Getting Started
 
 ### Prerequisites
 - Java 17+
